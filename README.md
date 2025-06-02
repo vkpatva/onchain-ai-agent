@@ -1,2 +1,2 @@
-# weather-app-ai-agent
-handson on ai agent
+# Onchain AI Agent  
+Onchain AI Agent
